@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .rworks__header-title {
   text-align: center; }
 
@@ -50,3 +51,23 @@
   margin-top: 10px;
   border: darkblue 1px solid;
   background: white; }
+=======
+@charset "UTF-8";
+.intro {
+  font-family: "Noto Sans JP","游ゴシック","Yu Gothic",YuGothic,"ヒラギノ角ゴシック Pro","Hiragino Kaku Gothic Pro","メイリオ",Meiryo,sans-serif;
+  padding: 3px; }
+
+.intro__button {
+  padding: 20px;
+  background-color: white;
+  border-color: black; }
+
+.intro {
+  font-family: "Noto Sans JP","游ゴシック","Yu Gothic",YuGothic,"ヒラギノ角ゴシック Pro","Hiragino Kaku Gothic Pro","メイリオ",Meiryo,sans-serif;
+  padding: 3px; }
+
+.intro__button {
+  padding: 20px;
+  background-color: white;
+  border-color: black; }
+>>>>>>> intro
