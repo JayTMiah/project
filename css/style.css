@@ -2,4 +2,11 @@ p {
   color: blue;
   background-color: cornflowerblue;
   font-size: 72;
+<<<<<<< HEAD
   border: pink dashed 20px; }
+=======
+  border: grey solid 20px; }
+
+body {
+  color: red; }
+>>>>>>> tims-branch
