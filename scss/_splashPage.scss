@@ -1,13 +1,22 @@
 .splash__article {
-    background-image: url(../assets/test.png);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(../assets/slides_jonathan01-sp.webp);
+    object-fit: fill;
+    background-position: center;
+    padding: 0%;
+    margin: 0%;
 }
 
 .splash__text {
-
+    color: white;
 }
 
 .splash__text__japanese {
-
+    color: white;
 }
 
 .splash__button__left {
